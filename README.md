@@ -1,6 +1,6 @@
-## Bem-vindo(a) ao perfil do Coruja 😁
+## Bem-vindo(a) ao perfil do Pedro Barcelos 😁
  <div>
-   <a href="https://github.com/Pedro Barcelos">
+   <a href="https://github.com/Coruja520">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Coruja520&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coruja520&layout=compact&langs_count=6&theme=radical"/>
 </div>
